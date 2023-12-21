@@ -43,3 +43,4 @@ sudo systemctl stop takserver
 sudo systemctl start takserver
 
 echo "complete - wait a minute before checking"
+service takserver restart
