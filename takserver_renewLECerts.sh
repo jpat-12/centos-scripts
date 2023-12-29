@@ -10,7 +10,7 @@
 ##If you don't have all of this, do NOT run this script. It will fail.
 
 
-certNameVar=centos7.ilwg.us
+certNameVar=PUT_DOMAIN_HERE
 
 ## Conduct a certificate renewal dry run to verify permissions and path
 sudo certbot renew --force-renewal
